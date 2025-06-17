@@ -1,4 +1,4 @@
-### Hi there 👋
+### To anyone reading this, I hope you're having a good day.
 
 <!--
 **TwentyBowls/TwentyBowls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
